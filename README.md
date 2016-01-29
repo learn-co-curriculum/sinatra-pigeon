@@ -39,4 +39,4 @@ Create a Sinatra app that lists all pigeons, can create new ones, shows individu
 ## Resources
 * [Heroku](http://www.heroku.com/) - [Pigeon App](http://flatironschool-sinatra-pigeons.herokuapp.com)
 
-<a href='https://learn.co/lessons/sinatra-pigeon' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-pigeon' title='Sinatra Pigeon'>Sinatra Pigeon</a> on Learn.co and start learning to code for free.</p>
